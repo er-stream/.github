@@ -21,7 +21,7 @@
 
 ### 🔗 **Link Utili**
 
-- 🌐 **Sito Web**: [Visita il sito ufficiale](https://www.prontosoccorsoitalia.com)
+- 🌐 **Sito Web**: [Visita il sito ufficiale](https://www.prontosoccorsoitalia.it)
 - 📱 **App Android**: [Scarica da Google Play](https://play.google.com/store/apps/details?id=com.prontosoccorsoitalia.android)
 - 🍏 **App iOS**: [Scarica dall'App Store](https://apps.apple.com/it/app/pronto-soccorso/id6736611412)
 
